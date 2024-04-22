@@ -2,6 +2,6 @@ class PagesController < ApplicationController
   def index
   end
 
-  def Kaelon20
+  def kaelon20
   end
 end
